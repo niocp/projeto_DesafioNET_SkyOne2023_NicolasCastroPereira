@@ -1,0 +1,15 @@
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.csproj.AssemblyReference.cache
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.AssemblyInfoInputs.cache
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.AssemblyInfo.cs
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.csproj.CoreCompileInputs.cache
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\bin\Debug\net6.0\test 03.exe
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\bin\Debug\net6.0\test 03.deps.json
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\bin\Debug\net6.0\test 03.runtimeconfig.json
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\bin\Debug\net6.0\test 03.dll
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\bin\Debug\net6.0\test 03.pdb
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.dll
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\refint\test 03.dll
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.pdb
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\test 03.genruntimeconfig.cache
+E:\Repositorio Visual Studio\Desafio NET test 01\test 03\obj\Debug\net6.0\ref\test 03.dll
